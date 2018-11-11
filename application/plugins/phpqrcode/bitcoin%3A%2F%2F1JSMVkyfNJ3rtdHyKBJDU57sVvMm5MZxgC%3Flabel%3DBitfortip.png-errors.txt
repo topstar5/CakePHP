@@ -1,0 +1,1674 @@
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:28:59: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:00: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:00: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:00: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:00: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:00: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:00: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:01: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:01: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:01: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:01: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:01: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:01: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:29:01: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:26: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:26: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:26: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:26: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:26: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:27: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:28: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:28: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:28: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:28: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:28: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:28: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:30:29: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:33:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:52: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:53: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:54: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:54: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:34:54: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:22: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:23: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:24: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:25: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:25: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:25: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:25: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:25: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:36:26: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:32: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:33: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:37:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:46: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:47: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:47: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:38:48: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:34: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:35: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:36: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:37: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:37: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:37: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:37: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:37: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:37: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:39:37: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:16: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:17: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:17: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:17: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:18: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+2016-10-08 19:48:19: <br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrspec.php</b> on line <b>550</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>/www/htdocs/w0130652/bitfortip.com/application/plugins/phpqrcode/qrmask.php</b> on line <b>133</b><br />
